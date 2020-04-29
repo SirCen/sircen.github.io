@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+# Welcome to Chris Wilsher's Project Page!
 
-You can use the [editor on GitHub](https://github.com/SirCen/sircen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you'll find a list of my Current and Past Projects along with their respective GitHub pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Current Projects:
+* [Discord Bot](https://github.com/SirCen/PubBot)
+* [React.js Site](https://github.com/SirCen/React-Bot-Site)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SirCen/sircen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Past Projects:
+* [Shooter Arcade Game](https://github.com/SirCen/GamesProject)
+* [Projectile Motion Model](https://github.com/SirCen/ProjectileMotionModel)
+* [Year 2 Team Project - Restaurant Web App](https://github.com/SirCen/Year2TeamProject)
