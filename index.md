@@ -3,7 +3,7 @@
 Here you'll find a list of my Current and Past Projects along with their respective GitHub pages
 
 ## Current Projects:
-* [Discord Bot](https://github.com/SirCen/PubBot)
+* [Discord Bot](https://github.com/SirCen/DiscordBot)
 * [React.js Site](https://github.com/SirCen/React-Bot-Site)
 
 ## Past Projects:
