@@ -4,7 +4,7 @@ Here you'll find a list of my Current and Past Projects along with their respect
 
 ## Current Projects:
 * [Discord Bot](https://github.com/SirCen/DiscordBot)
-* [React.js Site](https://github.com/SirCen/React-Bot-Site)
+* [React.js Site](https://github.com/SirCen/React-Bot-Site) Check out the live version [here](http://pubbot.uk/)
 
 ## Past Projects:
 * [Shooter Arcade Game](https://github.com/SirCen/GamesProject)
